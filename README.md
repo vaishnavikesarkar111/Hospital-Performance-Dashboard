@@ -1,4 +1,5 @@
-Healthcare Operations & Revenue Analytics Dashboard
+Hospital Performance & Patient Analytics Dashboard
+
 
 📊 Project Overview
 This project focuses on analyzing healthcare data using Excel to understand hospital performance, patient trends, and revenue patterns. 
